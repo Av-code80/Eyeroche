@@ -8,13 +8,21 @@ Date de la création du website et du projet SEO ; 2018-19.
 Eyeroche met à votre disposition un service d'accompagnement innovant pour votre sérénitié lors de votre séjour en Iran et en France
 
 
-Compétences dévelopées
+# Techniques utilisées
+
+* CSS,
+* Htmls5,
+* JavaScripte
+* Php
+
+# Compétences dévelopées
 
 Stocker des données de manière sécurisée
 Mettre en œuvre des opérations CRUD de manière sécurisée
 Implémenter un modèle logique de données conformément à la réglementation
 
 # Résultat 
+
 Vous pouvez consulter mon Site [Eyeroche Iran-France](https://github.com/Av-code80/Eyeroche/blob/master/site.eyroche.jpg) ##
 
 Pour consultez la page [facebook d'eyeroche](https://www.facebook.com/eyroche.irfr.1) ##

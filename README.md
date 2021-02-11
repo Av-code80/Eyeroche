@@ -1,6 +1,6 @@
 # Projet de la création du website et de faire l'audit SEO d'Eyroche Iran-France une sociète de services d'accompganement basé à Téhéran.
 
-Date de la création du website et du projet SEO ; 2018-19.
+Date de la création du website et du projet SEO ; 2017.
 
 ![](https://github.com/Av-code80/Eyeroche/blob/master/logo.jpg)
 
@@ -11,9 +11,10 @@ Eyeroche met à votre disposition un service d'accompagnement innovant pour votr
 # Techniques utilisées
 
 * CSS,
+* Wordpress,
 * Htmls5,
 * JavaScripte
-* Php
+
 
 # Compétences dévelopées
 
@@ -23,7 +24,7 @@ Implémenter un modèle logique de données conformément à la réglementation
 
 # Résultat 
 
-Vous pouvez consulter mon Site [Eyeroche Iran-France](https://github.com/Av-code80/Eyeroche/blob/master/site.eyroche.jpg) ##
+Vous pouvez consulter mon Site [Eyeroche Iran-France](https://arianinstitute.com/تحصیل-در-فرانسه/) ##
 
 Pour consultez la page [facebook d'eyeroche](https://www.facebook.com/eyroche.irfr.1) ##
 
